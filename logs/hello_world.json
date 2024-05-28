@@ -1,0 +1,8 @@
+[
+    {
+        "vulnerability-type": "Format String",
+        "line-number": "12",
+        "summary": "The code contains a format string vulnerability due to improper validation of user input. This can potentially lead to arbitrary code execution.",
+        "cwe": "134"
+    }
+]

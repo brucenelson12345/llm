@@ -1,0 +1,10 @@
+ ```json
+ [
+  {
+    "vulnerability-type": "undefined",
+    "line-number": "12",
+    "summary": "The printf function is used without checking the length of the input string. This could lead to a buffer overflow vulnerability if an attacker provides a long input string.",
+    "cwe": "CWE-120"
+  }
+ ]
+ ```

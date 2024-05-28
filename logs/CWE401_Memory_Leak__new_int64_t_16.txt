@@ -1,0 +1,10 @@
+```json
+[
+    {
+        "vulnerability-type": "Memory Leak",
+        "line-number": "0035, 0061, 0070, 0082, 0094",
+        "summary": "The code allocates memory on the heap but does not always deallocate it, leading to a memory leak.",
+        "cwe": "CWE-401"
+    }
+]
+```
